@@ -6,18 +6,18 @@
 
 <!-- Hero Header SVG Banner -->
 <a href="https://amr-mousa-portfolio-one.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/header.svg" alt="Amr Mousa — Data &amp; Marketing Analyst — Turning Data Into Decisions. Turning Decisions Into Growth." width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/header.svg" alt="Amr Mousa — Data &amp; Marketing Analyst — Turning Data Into Decisions. Turning Decisions Into Growth." width="100%"/>
 </a>
 
 <br><br>
 
 <!-- Rotating Title SVG -->
-<img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/typing.svg" alt="Role Transition Animation" width="100%" height="60px"/>
+<img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/typing.svg" alt="Role Transition Animation" width="100%" height="60px"/>
 
 <br>
 
 <!-- Impact Metrics Row -->
-<img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/impact.svg" alt="Metrics: 2+ Years Experience, 15+ Projects Delivered, 5+ Interactive Dashboards Published" width="100%"/>
+<img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/impact.svg" alt="Metrics: 2+ Years Experience, 15+ Projects Delivered, 5+ Interactive Dashboards Published" width="100%"/>
 
 <br><br>
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/Amr_Mousa_Resume.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/Amr_Mousa_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-822659?style=for-the-badge&logoColor=white" alt="Resume"/>
 </a>
 &nbsp;
@@ -59,7 +59,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 
 </div>
 
@@ -82,7 +82,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -131,7 +131,7 @@ If your company operates without clear data visibility or spends marketing budge
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -153,7 +153,7 @@ When you partner with me, we don't just build reports. We drive measurable opera
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -208,7 +208,7 @@ When you partner with me, we don't just build reports. We drive measurable opera
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -232,7 +232,7 @@ As an analyst who builds functional tools and pipelines, my GitHub projects cons
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -273,7 +273,7 @@ I categorize my work across the four core pillars of business intelligence, ensu
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -340,7 +340,7 @@ I categorize my work across the four core pillars of business intelligence, ensu
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -430,7 +430,7 @@ I align technical tools directly with the analytics pipeline stages to turn data
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -479,7 +479,7 @@ Beyond writing code and setting up filters, I support executive teams across the
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -532,7 +532,7 @@ Beyond writing code and setting up filters, I support executive teams across the
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -558,7 +558,7 @@ I am constantly developing my skillset to align technical capability with advanc
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
@@ -579,7 +579,7 @@ This GitHub profile establishes my technical credibility. To explore the full bu
     </td>
     <td width="50%" valign="top" style="border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; background-color: #111827; padding: 20px;">
       <h4>Corporate Resume</h4>
-      <p>Download my full employment timeline, educational background, and credential validation keys here: <a href="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/Amr_Mousa_Resume.pdf" target="_blank">Amr_Mousa_Resume.pdf</a>.</p>
+      <p>Download my full employment timeline, educational background, and credential validation keys here: <a href="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/Amr_Mousa_Resume.pdf" target="_blank">Amr_Mousa_Resume.pdf</a>.</p>
     </td>
   </tr>
   <tr>
@@ -597,7 +597,7 @@ This GitHub profile establishes my technical credibility. To explore the full bu
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amr-mousa0/landing-page/main/images/divider.svg" alt="Section Divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amr-mousa0/amr-mousa0/main/images/divider.svg" alt="Section Divider" width="100%"/>
 </div>
 
 <br>
